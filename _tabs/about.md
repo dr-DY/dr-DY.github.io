@@ -4,41 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 0;
-        padding: 0;
-        background-color: #121212;
-        color: #e0e0e0;
-    }
-    .container {
-        max-width: 800px;
-        margin: 50px auto;
-        padding: 20px;
-        background: #1e1e1e;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    }
-    h1, h2 {
-        color: #bb86fc;
-    }
-    h1 {
-        margin-top: 0;
-    }
-    p {
-        margin: 1em 0;
-    }
-    .cv-link {
-        color: #bb86fc;
-        text-decoration: none;
-        font-weight: bold;
-    }
-    .cv-link:hover {
-        text-decoration: underline;
-    }
-</style>
-
 <div class="container">
     <h1>Denis Yukhnenko</h1>
     <h2>MSc DPhil</h2>
